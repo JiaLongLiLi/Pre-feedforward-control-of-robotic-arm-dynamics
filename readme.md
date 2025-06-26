@@ -1,1 +1,7 @@
 ![Image Alt Text](https://github.com/JiaLongLiLi/Pre-feedforward-control-of-robotic-arm-dynamics/blob/master/images/github_readme_Page1.png)
+![Image Alt Text](https://github.com/JiaLongLiLi/Pre-feedforward-control-of-robotic-arm-dynamics/blob/master/images/github_readme_Page2.png)
+![Image Alt Text](https://github.com/JiaLongLiLi/Pre-feedforward-control-of-robotic-arm-dynamics/blob/master/images/github_readme_Page3.png)
+![Image Alt Text](https://github.com/JiaLongLiLi/Pre-feedforward-control-of-robotic-arm-dynamics/blob/master/images/github_readme_Page4.png)
+![Image Alt Text](https://github.com/JiaLongLiLi/Pre-feedforward-control-of-robotic-arm-dynamics/blob/master/images/github_readme_Page5.png)
+![Image Alt Text](https://github.com/JiaLongLiLi/Pre-feedforward-control-of-robotic-arm-dynamics/blob/master/images/github_readme_Page6.png)
+![Image Alt Text](https://github.com/JiaLongLiLi/Pre-feedforward-control-of-robotic-arm-dynamics/blob/master/images/github_readme_Page7.png)
